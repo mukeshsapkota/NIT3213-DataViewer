@@ -33,8 +33,13 @@ The app allows users to login, view dashboard data, and see detailed information
 
 ## 📸 Screenshots
 
+Login
 ![Login](login.png)
+
+Dashboard
 ![Dashboard](Dashboard.png)
+
+Detais
 ![Details](Details.png)
 
 ---
